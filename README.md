@@ -13,11 +13,11 @@ This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
 <br>
 #### 프로그램 구성도<br>
-<img src="/images/image01.png" width="700"><br>
+<img src="/images/image01.png" width="600"><br>
 <br>
 <br>
 #### 학습 프로세스<br>
-<img src="/images/image02.png" width="700"><br>
+<img src="/images/image02.png" width="600"><br>
 <img src="/images/image03.png" width="500"><br>
 <br>
 <br>
