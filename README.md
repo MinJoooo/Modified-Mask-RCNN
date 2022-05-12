@@ -21,7 +21,7 @@ This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <img src="/images/image03.png" width="500"><br>
 <br>
 <br>
-#### Mask-RCNN 모델 구조<br>
+#### Mask R-CNN 모델 구조<br>
 <img src="/images/image04.png" width="500"><br>
 <br>
 <br>
