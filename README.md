@@ -1,4 +1,4 @@
-# MMR
+# Modified Mask R-CNN
 This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
 <br>
