@@ -1,7 +1,7 @@
 # MMR
 This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
-#### 2020.03.01~202012.31<br>
+#### 2020.03.01~202012.31
 #### ㈜아와소프트 산학공동프로젝트 참여 + 단기인턴십<br>
 딥러닝 컴퓨터비전 모델인 Mask-RCNN을 이용하여<br>
 산림 병해충 탐지 프로그램 개발하였습니다.<br>
