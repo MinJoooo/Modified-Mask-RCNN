@@ -18,12 +18,12 @@ This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
 #### 학습 프로세스<br>
 <img src="/images/image02.png" width="600"><br>
-<img src="/images/image03.png" width="500"><br>
+<img src="/images/image03.png" width="450"><br>
 <br>
 <br>
 #### Mask R-CNN 모델 구조<br>
-<img src="/images/image04.png" width="500"><br>
+<img src="/images/image04.png" width="450"><br>
 <br>
 <br>
 #### 모델 시연을 위한 발표 UI<br>
-<img src="/images/image05.png" width="500"><br>
+<img src="/images/image05.png" width="450"><br>
