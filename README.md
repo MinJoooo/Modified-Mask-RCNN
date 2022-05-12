@@ -3,7 +3,7 @@ This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
 <br>
 #### ㈜아와소프트 산학공동프로젝트 참여 + 단기인턴십<br>
-2020.03.01~202012.31<br>
+2020.03.01~2020.12.31<br>
 <br>
 딥러닝 컴퓨터비전 모델인 Mask R-CNN을 이용하여<br>
 산림 병해충 탐지 프로그램을 개발하였습니다.<br>
