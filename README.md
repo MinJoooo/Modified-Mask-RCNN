@@ -10,3 +10,5 @@ This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
 본 코드는 제가 Mask-RCNN 코드를 용이하게 사용하기 위하여<br>
 각기 다른 용도에 맞게 수정한 코드입니다.<br>
+
+![This is an image](/images/image01.png)
