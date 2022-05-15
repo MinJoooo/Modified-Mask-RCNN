@@ -2,6 +2,7 @@
 This code is modified 'Mask R-CNN' to suit my convenience.<br>
 <br>
 <br>
+
 #### ㈜아와소프트 산학공동프로젝트 참여 + 단기인턴십<br>
 2020.03.01.~2020.12.31.<br>
 <br>
@@ -12,6 +13,8 @@ This code is modified 'Mask R-CNN' to suit my convenience.<br>
 각기 다른 용도에 맞게 수정한 코드입니다.<br>
 <br>
 <br>
+
+# 프로젝트 소개
 #### 프로그램 구성도<br>
 <img src="/images/image01.png" width="600"><br>
 <br>
